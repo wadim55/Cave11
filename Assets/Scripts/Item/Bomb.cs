@@ -5,7 +5,8 @@ using UnityEngine;
 using UnityEngine.Serialization;
 
 public class Bomb : Sound
-{
+{ 
+   
    [SerializeField] private GameObject exlosion;
   [SerializeField] private Material decail;
    void OnTriggerEnter(Collider col)
