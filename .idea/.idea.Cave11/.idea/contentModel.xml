@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\seven\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\seven\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Cave11.1416117130.00" t="ExcludeRecursive" />
-    <e p="C:\Work\Cave11" t="IncludeRecursive">
+    <e p="C:\MyWork\Cave\Cave11" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -28,6 +26,106 @@
               <e p="WaterOrb.shader" t="Include" />
             </e>
             <e p="Textures" t="Include" />
+          </e>
+          <e p="EffectCore" t="Include">
+            <e p="Materials" t="Include">
+              <e p="Decals" t="Include" />
+              <e p="fire" t="Include" />
+              <e p="Generic" t="Include" />
+            </e>
+            <e p="Models" t="Include" />
+            <e p="packs" t="Include">
+              <e p="StylizedExplosionPack1" t="Include">
+                <e p="materials_StylizedExplosionPack1" t="Include">
+                  <e p="decal" t="Include" />
+                  <e p="fire" t="Include" />
+                  <e p="Generic" t="Include" />
+                  <e p="smoke" t="Include" />
+                </e>
+                <e p="postprocessprofile" t="Include" />
+                <e p="Prefabs" t="Include">
+                  <e p="legacy" t="Include">
+                    <e p="Blue_DemonFire" t="Include" />
+                    <e p="FunkyMix_JokerFire" t="Include" />
+                    <e p="Green_Wildfire" t="Include" />
+                    <e p="Purple_DarkFire" t="Include" />
+                    <e p="Red_OriginalFire" t="Include" />
+                    <e p="Red_OriginalFire_NoSmoke" t="Include" />
+                    <e p="template" t="Include" />
+                  </e>
+                  <e p="mobile" t="Include">
+                    <e p="blue_demonFire_mobile" t="Include" />
+                    <e p="funkyMix_jokerFire_mobile" t="Include" />
+                    <e p="green_wildFire_mobile" t="Include" />
+                    <e p="purple_darkFire_mobile" t="Include" />
+                    <e p="red_originalFire_mobile" t="Include" />
+                    <e p="red_originalFire_noSmoke_mobile" t="Include" />
+                    <e p="template_mobile" t="Include" />
+                  </e>
+                  <e p="ShaderGraphVersion" t="Include">
+                    <e p="blue_demonFire_ShaderGraph" t="Include" />
+                    <e p="funkyMix_jokerFire_ShaderGraph" t="Include" />
+                    <e p="green_wildFire_ShaderGraph" t="Include" />
+                    <e p="purple_darkFire_ShaderGraph" t="Include" />
+                    <e p="red_originalFire_noSmoke_ShaderGraph" t="Include" />
+                    <e p="red_originalFire_ShaderGraph" t="Include" />
+                    <e p="template_ShaderGraph" t="Include" />
+                  </e>
+                </e>
+                <e p="Scenes" t="Include">
+                  <e p="StylizedExplosionPack1_ThrowBombs_mobile" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="alphaBlend_depthBlend_glow.shader" t="Include" />
+                  <e p="alphaBlend_glow.shader" t="Include" />
+                </e>
+                <e p="Textures" t="Include" />
+                <e p="Tips &amp; Documentations StylizedExplosionPack1.txt" t="Include" />
+                <e p="WebDemo" t="Include">
+                  <e p="bombPrefabs" t="Include">
+                    <e p="Blue_DemonFire" t="Include" />
+                    <e p="FunkyMix_JokerFire" t="Include" />
+                    <e p="Green_Wildfire" t="Include" />
+                    <e p="Purple_DarkFire" t="Include" />
+                    <e p="Red_OriginalFire" t="Include" />
+                    <e p="Red_OriginalFire_NoSmoke" t="Include" />
+                  </e>
+                  <e p="Material" t="Include">
+                    <e p="bombType" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="ExplodingProjectileExplosion1.cs" t="Include" />
+                    <e p="instantiateEffectCallerExplosion1.cs" t="Include" />
+                    <e p="projectileActorExplosion1.cs" t="Include" />
+                  </e>
+                  <e p="Textures" t="Include" />
+                </e>
+              </e>
+              <e p="WebDemoAssets" t="Include">
+                <e p="animators" t="Include" />
+                <e p="example_scene_environment" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="ECCameraShake.cs" t="Include" />
+                  <e p="ECCameraShakeCaller.cs" t="Include" />
+                  <e p="ECCameraShakeProjectile.cs" t="Include" />
+                  <e p="ECEffectActor.cs" t="Include" />
+                  <e p="ECExplodingProjectile.cs" t="Include" />
+                  <e p="ECProjectile.cs" t="Include" />
+                  <e p="ECprojectileActor.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ECdestroyMe.cs" t="Include" />
+              <e p="ECparticleColorChangerMaster.cs" t="Include" />
+            </e>
+            <e p="Textures" t="Include">
+              <e p="Decals" t="Include" />
+              <e p="fire" t="Include" />
+            </e>
+            <e p="WebDemos" t="Include">
+              <e p="font" t="Include" />
+            </e>
           </e>
           <e p="ShapesFX_Pack" t="Include">
             <e p="Editor" t="Include">
@@ -140,7 +238,6 @@
           <e p="Textures" t="Include" />
         </e>
         <e p="Music" t="Include">
-          <e p="Kube.cs" t="Include" />
           <e p="Sound.cs" t="Include" />
         </e>
         <e p="Player" t="Include">
@@ -2143,8 +2240,8 @@
           <e p="Item" t="Include">
             <e p="Bomb.cs" t="Include" />
             <e p="Item.cs" t="Include" />
+            <e p="ItemEvents.cs" t="Include" />
           </e>
-          <e p="ItemEvents.cs" t="Include" />
           <e p="location" t="Include">
             <e p="CrushFloor.cs" t="Include" />
           </e>
@@ -2158,5 +2255,7 @@
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Cave11.-1638774879.00" t="ExcludeRecursive" />
   </component>
 </project>

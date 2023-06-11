@@ -1,19 +1,31 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
 
-public class Sound : MonoBehaviour
+public class Sound : Item
 {
-    public List<AudioClip> _clip;
-    private AudioSource Audio => GetComponent<AudioSource>();
+    private static AudioClip[] clips;
+    public AudioClip[] clipInspector;
+    
+    
+    
+    private AudioSource audio;
 
-   
-    public void PlaySound(AudioClip clip, float volume = 1, float pitch = 1)
+    private void Awake()
     {
-        Audio.clip = clip;
-        Audio.volume = volume;
-        Audio.pitch = pitch;
-        Audio.Play();
+        audio = gameObject.AddComponent<AudioSource>() as AudioSource;
+    }
+    private void Start()
+    {
+        clips = clipInspector;
+        audio = GetComponent<AudioSource>();
+    }
+
+    public void PlaySound(int numberClip, float volume = 1, float pitch = 1)
+    {
+        audio.clip = clips[numberClip];
+        audio.volume = volume;
+        audio.pitch = pitch;
+        audio.Play();
     }
     
 }

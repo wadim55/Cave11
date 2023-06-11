@@ -27,9 +27,10 @@ public class CrushFloor : Sound
    [ContextMenu("краш")]
    public void Crush(GameObject a)
    {
-       if (!((transform.position - a.transform.position).magnitude < 15)) return;
+       if (!((floor.transform.position - a.transform.position).magnitude < 5)) return;
        floor.SetActive(false);
        crushfloor.SetActive(true);
+       PlaySound(0, 0.4f, 1 );
 
    }
 }

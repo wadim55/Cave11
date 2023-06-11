@@ -17,7 +17,7 @@ public abstract class Item : MonoBehaviour
 
     public void Start()
     {
-        ItemEvents.onEnableItem(this.gameObject);
+      // ItemEvents.onEnableItem(this.gameObject);
      
         if (GameObject.FindGameObjectWithTag("Item") != null)
         {
