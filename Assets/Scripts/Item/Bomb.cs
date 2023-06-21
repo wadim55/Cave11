@@ -15,12 +15,17 @@ public class Bomb : Sound
    {
       if (col.gameObject.tag == "Player")
       {
-         ItemEvents.itemExploded(gameObject);
-         PlaySound(1);
-         exlosion.SetActive(true);
-         GetComponent<Renderer>().material = decail;
-         Destroy(gameObject, 0.5f);
+        Explosion();
       }
-
    }
+
+  public void Explosion()
+  {
+      ItemEvents.itemExploded(gameObject);
+      PlaySound(1);
+      exlosion.SetActive(true);
+      GetComponent<Renderer>().material = decail;
+      Destroy(gameObject, 0.5f);
+  }
+  
 }

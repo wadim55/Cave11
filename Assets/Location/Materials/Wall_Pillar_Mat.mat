@@ -24,14 +24,52 @@ Material:
         m_Texture: {fileID: 2800000, guid: 010187b5b50de1a4ea8aa4fefc4a765d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DecalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Flow:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 222374e9891c18a438083e080780bb91, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Depthpower: 0.2
+    - _Distortionpower: 0
+    - _Emission: 2
+    - _Fresnelpower: 3
+    - _Fresnelscale: 3
+    - _Gloss: 0.8
+    - _Metallic: 1
+    - _NormalScale: 0.5
+    - _Numberofwaves: 1
+    - _Opacity: 0.3
     - _Shininess: 0.827
+    - _Useonlycolor: 0
+    - __dirty: 1
     m_Colors:
     - _Color: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
     - _SpecColor: {r: 0.5597015, g: 0.5597015, b: 0.5597015, a: 1}
+    - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
+    - _WavesspeedsizeXYTwistspeedsizeZW: {r: -1, g: 0.2, b: 4, a: 0.6}
   m_BuildTextureStacks: []

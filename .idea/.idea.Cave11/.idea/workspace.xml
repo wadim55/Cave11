@@ -21,11 +21,204 @@
   <component name="ChangeListManager">
     <list default="true" id="6ed2b1b7-0662-42ac-8fd5-53c462927d10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cave11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Location/Prefab_Peices/Dungeon_Room3x3_Prefab 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Location/Prefab_Peices/Dungeon_Room3x3_Prefab 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Location/Materials/Door_Torch_Arch_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Location/Materials/Door_Torch_Arch_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Location/Materials/Wall_Pillar_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Location/Materials/Wall_Pillar_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Music/глухой взрыв.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Music/глухой взрыв.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Music/разлом стены.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Music/разлом стены.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Angpose.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Angpose.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk2.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk3.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk3.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk4.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Atk4.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Bye.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Bye.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellA.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellA.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellB.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellB.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellC.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@CastspellC.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Cry.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Cry.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Cutepose.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Cutepose.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Damage.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Damage.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@DieA.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@DieA.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@DieB.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@DieB.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleB.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleB.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleC.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleC.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleE.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleE.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleF.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@IdleF.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Idle_A.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Idle_A.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Jump.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Jump.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Rei.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Rei.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run_L.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run_L.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run_R.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Run_R.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_L.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_L.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_R.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_R.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_back.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Anim@Walk_back.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Animation_check_Kazuko.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Animation_check_Kazuko.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Animation_check_Kazuko.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Animation_check_Kazuko.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_Mask_v1.0.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_Mask_v1.0.mask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_Mask_v1.0.mask.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_Mask_v1.0.mask.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_v1.0.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/AvatarA_v1.0.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Camera_move.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Camera_move.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Camera_move.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Camera_move.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/DirecLigth.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/DirecLigth.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/DirecLigth.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/DirecLigth.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Directional Light.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Directional Light.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Directional Light.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/Directional Light.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose01.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose01.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose01.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose01.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose02.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose02.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose02.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose02.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/came_start.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/came_start.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/came_start.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Animations/Camera&amp;light_animation/came_start.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang2.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang3.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Ang3.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_EyeClose.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_EyeClose.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SadA.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SadA.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SadB.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SadB.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SmileA.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SmileA.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SmileB.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_SmileB.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Surprise.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emo@Face_Surprise.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emotion_Mask_v1.0.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emotion_Mask_v1.0.mask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emotion_Mask_v1.0.mask.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Emotions/Emotion_Mask_v1.0.mask.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Elf_ears.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Elf_ears.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko_bikini.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko_bikini.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko_claymore.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/FBX/Kazuko_claymore.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Kazuko.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Kazuko.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Kazuko.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Kazuko.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/KazukoSettings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/KazukoSettings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/KazukoSettings.lighting.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/KazukoSettings.lighting.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeL.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeL.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeL.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeL.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeR.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeR.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeR.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeR.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeline.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeline.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_face.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_face.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_face.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_face.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_lash.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_lash.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_lash.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/Kazuko_lash.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/cheek.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/cheek.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/cheek.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Base_character/cheek.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/Kazuko_SkinB.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/Kazuko_SkinB.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/Kazuko_SkinB.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/Kazuko_SkinB.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/bikini9.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/bikini9.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/bikini9.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Bikini/bikini9.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Elfears.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Elfears.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Elfears.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Elfears.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Armor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Armor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Armor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Armor.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Skin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Skin.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Skin.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_Skin.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_hair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_hair.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_hair.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/Kazuko_hair.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/kazuko_claymore.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/kazuko_claymore.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/kazuko_claymore.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/Kazuko/kazuko_claymore.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/floorF.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/floorF.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/floorF.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Materials/floorF.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Elf_ears.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Elf_ears.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Elf_ears.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Elf_ears.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_bikini.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_bikini.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_bikini.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_bikini.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_claymore.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_claymore.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_claymore.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_claymore.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_nobra.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_nobra.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_nobra.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Prefab/Kazuko_nobra.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeL.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeL.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeR.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeR.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_face.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/Kazuko_face.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/cheek.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Base_character/cheek.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini/Kazuko_SkinB.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini/Kazuko_SkinB.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini/bikini9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Bikini/bikini9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Elfears.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Elfears.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Armor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Armor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Claymore.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Claymore.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Skin.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_Skin.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_hair.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/Kazuko/Kazuko_hair.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/floorF.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Kazuko/Texture/floorF.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/README.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/README.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/AnimatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/AnimatorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/AnimatorController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/AnimatorController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/MouseOrbit.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/MouseOrbit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/MouseOrbit.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/MouseOrbit.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/Swapper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/Swapper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/Swapper.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/Scripts/Swapper.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/anim_button1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/anim_button1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/anim_button3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/anim_button3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/animation.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/animation.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/emo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/emo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/frame.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/frame.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UI/icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaMain.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaMain.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaMain.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaMain.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaOutline.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaOutline.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaOutline.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaOutline.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaSkin.cginc" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaSkin.cginc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaSkin.cginc.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/CharaSkin.cginc.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_CLOTH1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_CLOTH1.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_RIM1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_RIM1.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_SKIN1.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/FO_SKIN1.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/readme.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Suriyun/UnityChanShader/Shader/readme.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefas/коридор краш.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefas/коридор краш.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Item/Bomb.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Sound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Sound.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/location/CrushFloor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/location/CrushFloor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +229,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MySound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Item/Bomb.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -44,10 +238,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Item/ItemEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Item/Item.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/location/CrushFloor.cs" />
         <option value="$PROJECT_DIR$/Assets/Music/Sound.cs" />
         <option value="$PROJECT_DIR$/Assets/Toolkits/Rope/Core/PointsExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LibrarySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Item/Bomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/location/CrushFloor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterController/vThirdPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/KazukoSystem/Kazuko.cs" />
+        <option value="$PROJECT_DIR$/Assets/KazukoSystem/KazukoChanger.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +305,15 @@
       <workItem from="1686484822183" duration="498000" />
       <workItem from="1686489309348" duration="777000" />
       <workItem from="1686559055128" duration="45000" />
-      <workItem from="1686563665815" duration="112000" />
+      <workItem from="1686563665815" duration="759000" />
+      <workItem from="1686577051300" duration="652000" />
+      <workItem from="1686594324158" duration="1169000" />
+      <workItem from="1686645125410" duration="1000" />
+      <workItem from="1686645178713" duration="4158000" />
+      <workItem from="1687243266295" duration="14000" />
+      <workItem from="1687243868298" duration="11000" />
+      <workItem from="1687244689609" duration="4354000" />
+      <workItem from="1687331218006" duration="425000" />
     </task>
     <servers />
   </component>

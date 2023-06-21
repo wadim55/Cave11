@@ -15,6 +15,8 @@ namespace Invector.vCharacterController
 
         protected override void Start()
         {
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
             base.Start();
             if (!useInstance) return;
 
