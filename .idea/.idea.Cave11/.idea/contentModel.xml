@@ -332,6 +332,68 @@
             </e>
           </e>
         </e>
+        <e p="FieldOfView" t="Include">
+          <e p="Core" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FieldOfViewConfigurationEditor.cs" t="Include" />
+                <e p="FieldOfViewSkinEditor.cs" t="Include" />
+                <e p="SkinMaterialBuilder.cs" t="Include" />
+              </e>
+              <e p="FieldOfView.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SkinSwapShader.shader" t="Include" />
+            </e>
+            <e p="Textures" t="Include" />
+          </e>
+          <e p="Demo" t="Include">
+            <e p="DevGuideDemo" t="Include">
+              <e p="Main" t="Include" />
+              <e p="Materials" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="Coin.cs" t="Include" />
+                <e p="Enemy.cs" t="Include" />
+                <e p="GameStateManager.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PerformanceTest" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="FpsMeter.cs" t="Include" />
+                <e p="Spawner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Preview" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="SimpleGame" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Obstacles" t="Include" />
+              </e>
+              <e p="Models" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+              <e p="Prefabs" t="Include" />
+              <e p="Scenes" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="EnemyController.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="PathVisualizer.cs" t="Include" />
+                <e p="PlayerController.cs" t="Include" />
+              </e>
+              <e p="Textures" t="Include" />
+            </e>
+          </e>
+          <e p="NavMeshComponents" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="NavMeshComponents.asmdef" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Kabel" t="Include">
           <e p="Editor" t="Include">
             <e p="CableDiscEditor.cs" t="Include" />
@@ -386,6 +448,35 @@
           <e p="Particles" t="Include" />
           <e p="Prefab_Peices" t="Include" />
           <e p="Textures" t="Include" />
+        </e>
+        <e p="MonsterBaseTeam" t="Include">
+          <e p="3D" t="Include">
+            <e p="bg_platform" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="mon_goblinWizard" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="mon_orcWarrior" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="mon_orgeHitter" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="mon_trolCurer" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="Weapons" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+          </e>
+          <e p="Prefabs" t="Include" />
+          <e p="Scenes" t="Include" />
+          <e p="Scripts" t="Include" />
+          <e p="Textures" t="Include">
+            <e p="Buttons" t="Include" />
+            <e p="Panel" t="Include" />
+          </e>
         </e>
         <e p="Music" t="Include" />
         <e p="Player" t="Include">
@@ -2384,7 +2475,9 @@
             </e>
           </e>
         </e>
-        <e p="Scenes" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="Main" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="Item" t="Include">
             <e p="Bomb.cs" t="Include" />
@@ -2501,6 +2594,7 @@
         </e>
       </e>
       <e p="Cave11.sln" t="IncludeFlat" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\Bin" t="ExcludeRecursive" />

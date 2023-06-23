@@ -60,7 +60,7 @@ namespace Invector.vCharacterController.AI
             motor.sphereSensor = sensor.AddComponent<v_AISphereSensor>();
             sensor.transform.position = motor.transform.position;
             sensor.transform.parent = motor.transform;
-            motor.sphereSensor.GetComponent<SphereCollider>().isTrigger = true;
+//            motor.sphereSensor.GetComponent<SphereCollider>().isTrigger = true;
             EditorUtility.SetDirty(motor);
         }
 

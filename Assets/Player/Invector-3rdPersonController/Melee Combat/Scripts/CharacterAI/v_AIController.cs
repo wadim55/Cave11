@@ -22,9 +22,11 @@ namespace Invector.vCharacterController.AI
         protected float ignorePatrolTimer;
         protected float moveToSpeed;
         protected Vector3 moveToDestination;
+       // [SerializeField] private GameObject sphere;
 
         protected override void Start()
         {
+        //   sphere.SetActive(false);
             base.Start();
             ignorePatrolTimer = -1f;
             moveToDestination = transform.position;
@@ -32,6 +34,7 @@ namespace Invector.vCharacterController.AI
             StartCoroutine(StateRoutine());
             StartCoroutine(FindTarget());
             StartCoroutine(DestinationBehaviour());
+            
         }
 
         protected void FixedUpdate()
@@ -51,7 +54,7 @@ namespace Invector.vCharacterController.AI
                 currentTarget.character = target.GetComponent<vIHealthController>();
             }
             AddTagsToDetect(target.gameObject.tag);
-            sphereSensor.AddTarget(target);
+//            sphereSensor.AddTarget(target);
         }
 
         public virtual void RemoveCurrentTarget()
